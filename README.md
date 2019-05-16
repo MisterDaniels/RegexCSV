@@ -16,5 +16,5 @@
 		Qualquer dados posteriores serão ignorados
 	
 ## Imagem
-	![alt text](https://i.ibb.co/5M42N6M/Trabalho.png)
+	![screenshot](https://i.ibb.co/5M42N6M/Trabalho.png)
 
