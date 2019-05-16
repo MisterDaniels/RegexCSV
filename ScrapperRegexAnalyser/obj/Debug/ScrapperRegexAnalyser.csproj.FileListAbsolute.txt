@@ -1,0 +1,24 @@
+C:\Users\chica\source\repos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\bin\Debug\ScrapperRegexAnalyser.exe.config
+C:\Users\chica\source\repos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\bin\Debug\ScrapperRegexAnalyser.exe
+C:\Users\chica\source\repos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\bin\Debug\ScrapperRegexAnalyser.pdb
+C:\Users\chica\source\repos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\chica\source\repos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\chica\source\repos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\chica\source\repos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\obj\Debug\ScrapperRegexAnalyser.csprojAssemblyReference.cache
+C:\Users\chica\source\repos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\obj\Debug\ScrapperRegexAnalyser.Form1.resources
+C:\Users\chica\source\repos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\obj\Debug\ScrapperRegexAnalyser.Properties.Resources.resources
+C:\Users\chica\source\repos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\obj\Debug\ScrapperRegexAnalyser.csproj.GenerateResource.cache
+C:\Users\chica\source\repos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\obj\Debug\ScrapperRegexAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\chica\source\repos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\obj\Debug\ScrapperRegexAnalyser.csproj.CopyComplete
+C:\Users\chica\source\repos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\obj\Debug\ScrapperRegexAnalyser.exe
+C:\Users\chica\source\repos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\obj\Debug\ScrapperRegexAnalyser.pdb
+G:\Trabalhos\Faculdade\Linguagens Formais\Trabalhos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\bin\Debug\ScrapperRegexAnalyser.exe.config
+G:\Trabalhos\Faculdade\Linguagens Formais\Trabalhos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\bin\Debug\ScrapperRegexAnalyser.exe
+G:\Trabalhos\Faculdade\Linguagens Formais\Trabalhos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\bin\Debug\ScrapperRegexAnalyser.pdb
+G:\Trabalhos\Faculdade\Linguagens Formais\Trabalhos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\obj\Debug\ScrapperRegexAnalyser.csprojAssemblyReference.cache
+G:\Trabalhos\Faculdade\Linguagens Formais\Trabalhos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\obj\Debug\ScrapperRegexAnalyser.Form1.resources
+G:\Trabalhos\Faculdade\Linguagens Formais\Trabalhos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\obj\Debug\ScrapperRegexAnalyser.Properties.Resources.resources
+G:\Trabalhos\Faculdade\Linguagens Formais\Trabalhos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\obj\Debug\ScrapperRegexAnalyser.csproj.GenerateResource.cache
+G:\Trabalhos\Faculdade\Linguagens Formais\Trabalhos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\obj\Debug\ScrapperRegexAnalyser.csproj.CoreCompileInputs.cache
+G:\Trabalhos\Faculdade\Linguagens Formais\Trabalhos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\obj\Debug\ScrapperRegexAnalyser.exe
+G:\Trabalhos\Faculdade\Linguagens Formais\Trabalhos\ScrapperRegexAnalyser\ScrapperRegexAnalyser\obj\Debug\ScrapperRegexAnalyser.pdb
