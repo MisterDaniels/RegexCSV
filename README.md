@@ -1,5 +1,7 @@
 # Trabalho de Linguagens Formais
 
+[![Academy Project](https://img.shields.io/badge/Academy-Project-informational.svg)](https://www.facebook.com/Curso-de-Ciência-da-Computação-470257173378377/)
+
 +++-- Construir um código que 
 	->leia uma URL informada, 
 	->leia o catálogo (CSV) e 
